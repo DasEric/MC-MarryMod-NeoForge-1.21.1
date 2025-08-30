@@ -118,7 +118,7 @@ public class MarriageMod {
                 if (currentDisplayName == null) {
                     currentDisplayName = event.getEntity().getName();
                 }
-                MutableComponent prefix = Component.literal("[Verheiratet] ").withStyle(color);
+                MutableComponent prefix = Component.translatable("chat.marriagemod.married_prefix").append(" ").withStyle(color);
                 MutableComponent nameComponent = Component.literal(currentDisplayName.getString()).withStyle(color);
                 event.setDisplayName(prefix.append(nameComponent));
             }

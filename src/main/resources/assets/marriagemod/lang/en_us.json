@@ -1,0 +1,20 @@
+{
+  "chat.marriagemod.player_not_found": "Player not found!",
+  "chat.marriagemod.propose_self": "You cannot marry yourself!",
+  "chat.marriagemod.requester_already_married": "You are already married!",
+  "chat.marriagemod.target_already_married": "%s is already married!",
+  "chat.marriagemod.proposal_sent": "Marriage proposal sent to %s.",
+  "chat.marriagemod.proposal_received": "%s wants to marry you!",
+  "chat.marriagemod.proposal_accept": "Accept",
+  "chat.marriagemod.proposal_accept_hover": "Accept the marriage proposal",
+  "chat.marriagemod.proposal_deny": "Decline",
+  "chat.marriagemod.proposal_deny_hover": "Decline the marriage proposal",
+  "chat.marriagemod.requester_offline": "The player who sent the request is no longer online.",
+  "chat.marriagemod.no_pending_request": "You do not have a pending marriage proposal from %s.",
+  "chat.marriagemod.marriage_success": "Player %s married player %s!",
+  "chat.marriagemod.proposal_denied_target": "You have declined the marriage proposal.",
+  "chat.marriagemod.proposal_denied_requester": "%s has declined your marriage proposal.",
+  "chat.marriagemod.not_married_to_player": "You are not married to this player!",
+  "chat.marriagemod.divorce_success": "Player %s has divorced player %s.",
+  "chat.marriagemod.married_prefix": "[Married]"
+}

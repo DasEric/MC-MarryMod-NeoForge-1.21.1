@@ -1,0 +1,20 @@
+{
+  "chat.marriagemod.player_not_found": "Spieler nicht gefunden!",
+  "chat.marriagemod.propose_self": "Du kannst dich nicht selbst heiraten!",
+  "chat.marriagemod.requester_already_married": "Du bist bereits verheiratet!",
+  "chat.marriagemod.target_already_married": "%s ist bereits verheiratet!",
+  "chat.marriagemod.proposal_sent": "Heiratsantrag an %s gesendet.",
+  "chat.marriagemod.proposal_received": "%s möchte dich heiraten!",
+  "chat.marriagemod.proposal_accept": "Akzeptieren",
+  "chat.marriagemod.proposal_accept_hover": "Heiratsantrag annehmen",
+  "chat.marriagemod.proposal_deny": "Ablehnen",
+  "chat.marriagemod.proposal_deny_hover": "Heiratsantrag ablehnen",
+  "chat.marriagemod.requester_offline": "Der Spieler, der den Antrag gestellt hat, ist nicht mehr online.",
+  "chat.marriagemod.no_pending_request": "Du hast keinen Heiratsantrag von %s.",
+  "chat.marriagemod.marriage_success": "Spieler %s hat Spieler %s geheiratet!",
+  "chat.marriagemod.proposal_denied_target": "Du hast den Heiratsantrag abgelehnt.",
+  "chat.marriagemod.proposal_denied_requester": "%s hat deinen Heiratsantrag abgelehnt.",
+  "chat.marriagemod.not_married_to_player": "Du bist nicht mit diesem Spieler verheiratet!",
+  "chat.marriagemod.divorce_success": "Spieler %s hat sich von Spieler %s geschieden.",
+  "chat.marriagemod.married_prefix": "[Verheiratet]"
+}
