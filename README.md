@@ -1,3 +1,3 @@
-LICENSE: GNU GENERAL PUBLIC LICENSE Version 3
-
 CurseForge Link: PENDING...
+
+**This Mod is Licensed by: GNU GENERAL PUBLIC LICENSE Version 3**
